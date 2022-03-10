@@ -1,3 +1,3 @@
 # AutoHotkey Read Me Page
 
-In the Wiki page, you will find the AutoHotkey scripts I used in the videos.
+Welcome! In the [Wiki page](https://github.com/how-to-work-from-home/autohotkey/wiki), you will find the AutoHotkey scripts I used in the videos.
